@@ -1731,7 +1731,7 @@ p {
   width: 65px;
   line-height: 65px;
   text-align: center;
-  background: #74b9ff;
+  background: #3E54FF;
   color: #3E54FF;
   -webkit-transition: all 0.4s ease;
   -moz-transition: all 0.4s ease;
@@ -2517,7 +2517,7 @@ body {
 }
 
 .name {
-  color: blue;
+  color: #3E54FF;
 }
 
 .work {
@@ -2530,7 +2530,7 @@ body {
 }
 
 .v-profile {
-  color: blue;
+  color: #3E54FF;
   cursor: pointer;
 }
 
